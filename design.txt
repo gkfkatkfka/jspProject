@@ -1,9 +1,10 @@
 천문학 홈페이지
 
 1. 설계 참고
-- 템플스테이
+- 참고사이트
 	: https://www.templestay.com/
 	: https://astro.kasi.re.kr/index
+	: https://www.yao.or.kr:451/
 	: 가능한 여기 디자인 참고할 생각
 - 내가 1학년 1학기 때 만든 천문 사이트
 - svg : https://myhappyman.tistory.com/36
