@@ -1,0 +1,19 @@
+1. 구상도
+(1) 검정색 박스
+		인하공업전문대학 컴퓨터정보과 / 학번 : 201944058
+아이콘 그림 	Copyright 2020 ⓒ kangHaram . All rights reserved
+
+
+(2) 얇은 밝은 회색 선
+인하공업전문대학 | 컴퓨터정보과 | 201944058
+Copyright 2020 ⓒ kangHaram . All rights reserved
+
+2. 세부사항
+- 인하공업전문대학 하이퍼링크 넣기
+
+3. 유의사항
+- 검정색 박스는 별말 천문대(https://www.yao.or.kr:451/)
+- 얇운 밝은 회색 선은 천문사이트(https://astro.kasi.re.kr/index)
+
+
+
