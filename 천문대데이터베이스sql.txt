@@ -1,0 +1,43 @@
+insert into observatory(name,loc,address,number,content,ab)
+values('송암 스페이스 센터','su','경기 양주시 장흥면 권율로185번길 103','031-894-6000','현실로 다가오는 꿈을 만날 수 있는 곳! 
+아련하고 멀기만 했던 우주를 현실로 만들어내는 기술의 중심지','song');
+
+insert into observatory
+values('중미산 천문대','su','경기 양평군 옥천면 중미산로 1268 중미산천문대','010-8520-0818','해발 420m에 위치한 수도권에서 가장 많은 별을 볼 수 있는 천문대','jung');
+
+insert into observatory
+values('시립 서울 천문대','su','서울 광진구 구천면로 2','02-2204-3190','도시의 불빛 때문에 잃어버렸다고 생각한 밤하늘의 낭만을 되찾을 수 있는 천문대','si');
+
+insert into observatory
+values('칠갑산 천문대 스타파크','chung','충남 청양군 정산면 한티고개길 178-46','041-940-2790','우주를 품고 꿈을 향해 도전하는, 신비로운 우주와 만나는 그곳! 칠갑산 천문대','chil');
+
+insert into observatory
+values('별똥별 하늘공원','chung','충남 태안군 남면 곰섬로 37-18','070-7007-7096','아름다운 밤하늘과 함께 서해안 3대 낙조 명소인 안면도의 일몰도 볼 수 있는 천문대','beol');
+
+insert into observatory
+values('소백산 천문대','chung','충북 단양군 단양읍 소백산길 639','043-422-1108','꿈과 희망을 실현하는 Innovation KASI','so');
+
+insert into observatory
+values('별마로 천문대','gang','강원 영월군 영월읍 천문대길 397','033-372-8445','별을 보는 고유한 정상, 별마로 천문대','beolma');
+
+insert into observatory
+values('조경철 천문대','gang','강원 화천군 사내면 천문대길 431','033-818-1929','아름다운 은하수와 쏟아지는 별빛의 세계,
+감동과 깊이가 있는 화천 조경철 천문대로 여러분을 초대합니다.','jo');
+
+insert into observatory
+values('국토정중앙천문대','gang','강원 양구군 남면 국토정중앙로 127 지구과학관','033-480-2586','우리나라의 정중앙 양구에서 아름다운 별을 세어보세요','guk');
+
+insert into observatory
+values('보현산 천문대','gyeng','경북 영천시 화북면 정각리 산6-2','054-330-1000','','bo');
+
+insert into observatory
+values('예천천문우주센터','gyeng','경북 예천군 감천면 충효로 1078 어린이우주과학관','054-654-1710','508mm 대형반사망원경과 다양한 천체관측장비, 4채널 디지털 플라네타리움(우주영상실), 강당, 관측자 숙소 등의 시설을 갖춘 천문대입니다.','ye');
+
+insert into observatory
+values('반딧불이 천문대','gyeng','경북 영양군 수비면 반딧불이로 129 영양반딧불이생태학교','054-680-5332','','ban');
+
+insert into observatory
+values('남원항공우주천문대','jeon','전북 남원시 양림길 48-63 남원항공우주천문대','063-620-6900','','nam');
+
+insert into observatory
+values('부안청림천문대','jeon','전북 부안군 상서면 노적길 25','063-580-3896','','bu');
